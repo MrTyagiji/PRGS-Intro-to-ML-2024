@@ -1,0 +1,17 @@
+---
+title: "Homework 1"
+format: html
+---
+
+**Name:** \<TYAGI\>
+
+**Question 1:** Use a programming language of your choice to save today's date to a variable. Then, include the date in the text below the code block.
+
+``` R
+# your code here
+print("hello World")
+x <- Sys.Date()
+print(x)
+```
+
+Today's date is: `<2024-10-09>`.
